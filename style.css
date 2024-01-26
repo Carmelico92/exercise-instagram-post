@@ -1,13 +1,12 @@
 body{
-    display: flex;
     align-items: center;
     justify-content: center;
-    margin: 100px;
     background-color: black;
 }
 
 .post{
     width: 500px;
+    margin: 30px, auto;
 }
 
 
